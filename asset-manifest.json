@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactliveweb/static/css/main.2f092c50.chunk.css",
+    "main.js": "/reactliveweb/static/js/main.26e84a99.chunk.js",
+    "main.js.map": "/reactliveweb/static/js/main.26e84a99.chunk.js.map",
+    "runtime-main.js": "/reactliveweb/static/js/runtime-main.070856f6.js",
+    "runtime-main.js.map": "/reactliveweb/static/js/runtime-main.070856f6.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/reactliveweb/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.54fe9bf9.chunk.js": "/reactliveweb/static/js/2.54fe9bf9.chunk.js",
+    "static/js/2.54fe9bf9.chunk.js.map": "/reactliveweb/static/js/2.54fe9bf9.chunk.js.map",
+    "index.html": "/reactliveweb/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/reactliveweb/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.2f092c50.chunk.css.map": "/reactliveweb/static/css/main.2f092c50.chunk.css.map",
+    "static/js/2.54fe9bf9.chunk.js.LICENSE.txt": "/reactliveweb/static/js/2.54fe9bf9.chunk.js.LICENSE.txt",
+    "static/media/aimg2.f719b814.jpg": "/reactliveweb/static/media/aimg2.f719b814.jpg",
+    "static/media/animg4.3a4d7f43.jpg": "/reactliveweb/static/media/animg4.3a4d7f43.jpg",
+    "static/media/dm.b1f235dd.jpg": "/reactliveweb/static/media/dm.b1f235dd.jpg",
+    "static/media/img2.450c85cb.jpg": "/reactliveweb/static/media/img2.450c85cb.jpg",
+    "static/media/img3.26ec9569.jpg": "/reactliveweb/static/media/img3.26ec9569.jpg",
+    "static/media/mm.231d3432.jpg": "/reactliveweb/static/media/mm.231d3432.jpg",
+    "static/media/my.9cf2f2d7.jpg": "/reactliveweb/static/media/my.9cf2f2d7.jpg",
+    "static/media/simg5.2236b395.jpg": "/reactliveweb/static/media/simg5.2236b395.jpg",
+    "static/media/ww.e56f8abe.jpg": "/reactliveweb/static/media/ww.e56f8abe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070856f6.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.54fe9bf9.chunk.js",
+    "static/css/main.2f092c50.chunk.css",
+    "static/js/main.26e84a99.chunk.js"
+  ]
+}
